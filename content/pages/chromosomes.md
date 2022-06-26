@@ -1,0 +1,1 @@
+- Chromosomes consist of a p arm (short arm) and a q arm (long arm), which is joined at the centromere ^8c478c

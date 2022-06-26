@@ -1,0 +1,7 @@
+# Respiratory bronchioles - Junqueira's Basic Histology - Text and Atlas 12th Ed,2010 p. 386-387
+
+![Screenshot 2022-01-05 at 10.37.29 AM.png](Respiratory%20bronchioles%20-%20Junqueira's%20Basic%20Histol%201a2d82b91bf84d8abd5c32cfd8bad7fa/Screenshot_2022-01-05_at_10.37.29_AM.png)
+
+Each terminal bronchiole subdivides into two or more respiratory bronchioles that serve as regions of transition between the conducting and respiratory portions of the respiratory system (Figure 17–11). The respiratory bronchiolar mucosa is structurally identical to that of the terminal bronchioles, except that their walls are interrupted by the openings to saclike alveoli where gas exchange occurs. Portions of the respiratory bronchioles are lined with ciliated cuboidal epithelial cells and Clara cells, but at the rim of the alveolar openings the bronchiolar epithelium becomes continuous with the squamous alveolar lining cells (type I alveolar cells; see below). Proceeding distally along these bronchioles, the alveoli increase in number, and the distance between them is reduced. Between alveoli the bronchiolar epithelium consists of ciliated cuboidal epithelium, although cilia may be absent in more distal portions. Smooth muscle and elastic connective tissue lie beneath the epithelium of respiratory bronchioles.
+
+![Screenshot 2022-01-05 at 10.37.56 AM.png](Respiratory%20bronchioles%20-%20Junqueira's%20Basic%20Histol%201a2d82b91bf84d8abd5c32cfd8bad7fa/Screenshot_2022-01-05_at_10.37.56_AM.png)

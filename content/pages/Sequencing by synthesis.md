@@ -1,0 +1,11 @@
+- properties
+	- up:: [[Methods of detecting genetic variations]], [[Next generation sequencing techniques]]
+	- tags:: [[Precision Medicine MOC]]
+	- aliases::
+- Steps to sequencing by synthesis 
+	- 1. DNA preparation - DNA sequence is primed with adaptors and barcodes
+	- 2. Amplication - amplication of clusters of sequence
+	- 3. Sequencing
+		- Florescence-labelled and terminally blocked nucleotide is added
+		- Flow cell is imaged to determine the base added
+		- Florescence is cleaved to regenerate 3'OH, enable the addition of the next nucleotide
